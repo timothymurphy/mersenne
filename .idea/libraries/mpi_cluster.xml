@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mpi-cluster">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mpi-cluster.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
